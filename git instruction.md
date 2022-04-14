@@ -46,3 +46,4 @@ git config --global user.email you@example.com
 Файл изменяется до состояния загружаемого коммита
 
 Для возврата к актуальному коммиту вводим команду *git chekout master*
+
